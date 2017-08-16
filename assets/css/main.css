@@ -1,0 +1,17 @@
+.padre{
+	text-align: center;
+border: 15px solid purple;
+padding: 20px  ;
+margin: 10px;
+width: 400px;
+background-color: pink;
+
+	}
+.hijo{
+
+  background-color: white;
+  border-style: dashed ;
+  padding: 10px ;
+  border-color: green
+
+}
